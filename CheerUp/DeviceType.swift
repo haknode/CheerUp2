@@ -2,7 +2,7 @@
 //  DeviceType.swift
 //  CheerUp
 //
-//  Created by inveoo on 06/03/2017.
+//  Created by haknode on 06/03/2017.
 //
 //
 
